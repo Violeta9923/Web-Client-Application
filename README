@@ -1,0 +1,6 @@
+
+	In fisierul request.c am implementat functiile care apeleaza cererile
+de tip POST, GET si DELETE, functii ce intorc mesajul ce urmeaza sa fie trimis
+pe server.
+	In cazul in care, conditiile de autentificare sau de accesare ale comenzi-
+lor nu au fost respectate, am afisate mesaje de atentionare.
